@@ -14,7 +14,7 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Cryst4l_St0n3.github.io # the main title
+title: Cryst4l_St0n3 # the main title
 
 tagline: A text-focused Jekyll theme # it will display as the subtitle
 
@@ -23,10 +23,10 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://cryst4l_st0n3.github.io"
+url: "https://cryst4lst0n3.github.io"
 
 github:
-  username: haipUetVNU2k6 # change to your GitHub username
+  username: cryst4lst0n3 # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
